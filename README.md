@@ -1,6 +1,5 @@
-# EXP. NO: 06
+# EXP NO-6
 
-# DATE: 
 # <p align = "center"> Poisson Process </p>
 
 
